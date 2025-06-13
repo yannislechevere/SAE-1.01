@@ -6,15 +6,9 @@ Il est divisé en **quatre versions**, chacune ajoutant de nouvelles fonctionnal
 La **dernière version** est également accompagnée d'une **documentation générée avec Doxygen**.
 
 ---
-
-## 🔧 Compilation
-
-Pour compiler une version du jeu :
-
 # Détails des Versions
 
 ---
-
 ## **Version 1 – Déplacement automatique**
 <details> 
   <summary>Détails</summary>
