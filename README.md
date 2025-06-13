@@ -15,8 +15,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 > Le serpent se déplace automatiquement vers la droite.  
 > Aucun contrôle clavier.  
 > Le jeu se termine si l'utilisateur tape la touche "A".
-
-🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version1)
+> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version1)
 
 </details>
 
@@ -32,8 +31,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 > - D : Droite
 > 
 > Le serpent continue dans la direction choisie.
-
-🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version2)
+> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version2)
 
 </details>
 
@@ -41,11 +39,10 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 <details> 
   <summary>Détails</summary>
 
-> Apparition de bordures fixes.
-> Introduction de pavés (obstacles).
-> Le serpent meurt en touchant un mur ou un pavé.
-
-🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version3)
+> - Apparition de bordures fixes.
+> - Introduction de pavés (obstacles).
+> - Le serpent meurt en touchant un mur ou un pavé.
+> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version3)
 
 </details>
 
@@ -53,12 +50,11 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 <details> 
   <summary>Détails</summary>
 
-> Des pommes apparaissent aléatoirement.
-> Le serpent grandit en mangeant une pomme.
-> Après 10 pommes, le joueur gagne.
-> Trous dans les murs : ils permettent la téléportation vers le bord opposé.
-
-🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version4)
+> - Des pommes apparaissent aléatoirement.
+> - Le serpent grandit en mangeant une pomme.
+> - Après 10 pommes, le joueur gagne.
+> - Trous dans les murs : ils permettent la téléportation vers le bord opposé.
+> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version4)
 
 📚 Documentation Doxygen disponible [ici](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
 
@@ -69,7 +65,6 @@ La **dernière version** est également accompagnée d'une **documentation gén�
   <summary>Détails</summary>
 
 > La documentation de la version 4 peut être générée avec Doxygen.
-
-🔗 [Dossier Doxygen](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
+> 🔗 [Dossier Doxygen](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
 
 </details>
