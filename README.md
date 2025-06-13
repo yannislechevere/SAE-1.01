@@ -1,4 +1,4 @@
-# **🐍 Jeu du Snake en C (Terminal)**
+## 🐍 Jeu du Snake en C (Terminal)
 ---
 
 Ce projet est une implémentation du célèbre jeu **Snake**, jouable dans le **terminal**, et développé en **langage C**.  
