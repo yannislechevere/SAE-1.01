@@ -18,9 +18,9 @@ Pour compiler une version du jeu :
 ## **Version 1 – Déplacement automatique**
 <details> 
   <summary>Détails</summary>
-> Le serpent se déplace automatiquement vers la droite. Aucun contrôle clavier.
-> Le jeu se termine si l'utilisateur tape la touche "A".
-> [dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version1)
+    > Le serpent se déplace automatiquement vers la droite. Aucun contrôle clavier.
+    >> Le jeu se termine si l'utilisateur tape la touche "A".
+    > [dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version1)
 </details>
 
 ## **Version 2 – Contrôle clavier ZQSD**
