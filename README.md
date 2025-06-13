@@ -65,28 +65,11 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 </details>
 
 ## **Documentation Doxygen**
-La documentation de la version 4 peut être générée avec Doxygen.
+<details> 
+  <summary>Détails</summary>
 
-✅ Génération
-Depuis la racine du projet :
+> La documentation de la version 4 peut être générée avec Doxygen.
 
-bash
-Copier
-Modifier
-doxygen Doxyfile
-Le résultat se trouve dans le dossier :
-Doxygen/html/index.html
+🔗 [Dossier Doxygen](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
 
-🧠 Idées futures
-Interface menu
-
-Ajout de scores
-
-Mode 2 joueurs
-
-Amélioration visuelle avec ncurses
-
-👤 Auteur
-Projet pédagogique réalisé pour apprendre la programmation en C via un jeu classique.
-Contributions bienvenues !
-
+</details>
