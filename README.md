@@ -36,6 +36,8 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 >
 ></details>
 
+---
+
 > ### **Version 3 – Bordures et obstacles**
 > <details> <summary>Détails</summary>
 >
@@ -46,6 +48,8 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 >> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version3)
 >
 > </details>
+
+---
 
 > ### **Version 4 – Pommes, téléportation, victoire**
 > <details> <summary>Détails</summary>
@@ -59,6 +63,8 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 >> 📚 Documentation Doxygen disponible [ici](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
 >
 > </details>
+
+---
 
 > ### **Documentation Doxygen**
 > <details> <summary>Détails</summary>
