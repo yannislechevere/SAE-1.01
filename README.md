@@ -14,7 +14,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 
 > Le serpent se déplace automatiquement vers la droite.  
 > Aucun contrôle clavier.  
-> Le jeu se termine si l'utilisateur tape la touche "A".
+> Le jeu se termine si l'utilisateur tape la touche "A".  
 > 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version1)
 
 </details>
