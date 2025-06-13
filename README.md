@@ -9,16 +9,15 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 # Détails des Versions
 
 > ### **Version 1 – Déplacement automatique**
-> <details> 
->  <summary>Détails</summary>
-
+> <details> <summary>Détails</summary>
+>
 >> Le serpent se déplace automatiquement vers la droite.  
 >> Aucun contrôle clavier.  
 >> Le jeu se termine si l'utilisateur tape la touche "A".
 >> 
 >> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version1)
-
-></details>
+>
+> </details>
 
 
 ## **Version 2 – Contrôle clavier ZQSD**
