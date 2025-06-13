@@ -19,6 +19,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 >
 > </details>
 
+---
 
 > ### **Version 2 – Contrôle clavier ZQSD**
 > <details> <summary>Détails</summary>
@@ -35,39 +36,35 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 >
 ></details>
 
-## **Version 3 – Bordures et obstacles**
-<details> 
-  <summary>Détails</summary>
-
-> - Apparition de bordures fixes.
-> - Introduction de pavés (obstacles).
-> - Le serpent meurt en touchant un mur ou un pavé.
-> 
-> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version3)
-
-</details>
-
-## **Version 4 – Pommes, téléportation, victoire**
-<details> 
-  <summary>Détails</summary>
-
-> - Des pommes apparaissent aléatoirement.
-> - Le serpent grandit en mangeant une pomme.
-> - Après 10 pommes, le joueur gagne.
-> - Trous dans les murs : ils permettent la téléportation vers le bord opposé.
-> 
-> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version4)
-
-📚 Documentation Doxygen disponible [ici](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
-
-</details>
-
-## **Documentation Doxygen**
-<details> 
-  <summary>Détails</summary>
-
-> La documentation de la version 4 peut être générée avec Doxygen.
+> ### **Version 3 – Bordures et obstacles**
+> <details> <summary>Détails</summary>
 >
-> 🔗 [Dossier Doxygen](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
+>> - Apparition de bordures fixes.
+>> - Introduction de pavés (obstacles).
+>> - Le serpent meurt en touchant un mur ou un pavé.
+>> 
+>> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version3)
+>
+> </details>
 
-</details>
+> ### **Version 4 – Pommes, téléportation, victoire**
+> <details> <summary>Détails</summary>
+>
+>> - Des pommes apparaissent aléatoirement.
+>> - Le serpent grandit en mangeant une pomme.
+>> - Après 10 pommes, le joueur gagne.
+>> - Trous dans les murs : ils permettent la téléportation vers le bord opposé.
+>> 
+>> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version4)  
+>> 📚 Documentation Doxygen disponible [ici](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
+>
+> </details>
+
+> ### **Documentation Doxygen**
+> <details> <summary>Détails</summary>
+>
+>> La documentation de la version 4 peut être générée avec Doxygen.
+>>
+>> 🔗 [Dossier Doxygen](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
+>
+> </details>
