@@ -20,21 +20,20 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 > </details>
 
 
-## **Version 2 – Contrôle clavier ZQSD**
-<details> 
-  <summary>Détails</summary>
-
-> Le joueur contrôle le serpent avec les touches :
-> - Z : Haut
-> - Q : Gauche
-> - S : Bas
-> - D : Droite
-> 
-> Le serpent continue dans la direction choisie.
-> 
-> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version2)
-
-</details>
+> ### **Version 2 – Contrôle clavier ZQSD**
+> <details> <summary>Détails</summary>
+>
+>> Le joueur contrôle le serpent avec les touches :
+>> - Z : Haut
+>> - Q : Gauche
+>> - S : Bas
+>> - D : Droite
+>> 
+>> Le serpent continue dans la direction choisie.
+>> 
+>> 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version2)
+>
+></details>
 
 ## **Version 3 – Bordures et obstacles**
 <details> 
