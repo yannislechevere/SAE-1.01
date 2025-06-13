@@ -1,12 +1,14 @@
 # **🐍 Jeu du Snake en C (Terminal)**
+---
 
 Ce projet est une implémentation du célèbre jeu **Snake**, jouable dans le **terminal**, et développé en **langage C**.  
 Il est divisé en **quatre versions**, chacune ajoutant de nouvelles fonctionnalités au jeu.
 
 La **dernière version** est également accompagnée d'une **documentation générée avec Doxygen**.
 
----
+  
 # **Détails des Versions**
+---
 
 ## **Version 1 – Déplacement automatique**
 <details> 
