@@ -11,7 +11,88 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 
 Pour compiler une version du jeu :
 
-```bash
-cd Version1
-gcc -o version1 version1.c
-./version1
+📦 Détails des Versions
+▶️ Version 1 – Déplacement automatique
+<details> <summary>📋 Détails</summary>
+Le serpent se déplace automatiquement vers la droite.
+
+Aucun contrôle clavier.
+
+Le jeu se termine si le serpent touche un bord.
+
+📄 Fichier : version1/snake_v1.c
+📘 Consignes : version1/consignes.pdf
+
+</details>
+🎮 Version 2 – Contrôle clavier ZQSD
+<details> <summary>📋 Détails</summary>
+Le joueur contrôle le serpent avec les touches :
+
+Z : Haut
+
+Q : Gauche
+
+S : Bas
+
+D : Droite
+
+Le serpent continue dans la direction choisie.
+
+📄 Fichier : version2/snake_v2.c
+📘 Consignes : version2/consignes.pdf
+
+</details>
+🧱 Version 3 – Bordures et obstacles
+<details> <summary>📋 Détails</summary>
+Apparition de bordures fixes.
+
+Introduction de pavés (obstacles).
+
+Le serpent meurt en touchant un mur ou un pavé.
+
+📄 Fichier : version3/snake_v3.c
+📘 Consignes : version3/consignes.pdf
+
+</details>
+🍎 Version 4 – Pommes, téléportation, victoire
+<details> <summary>📋 Détails</summary>
+Des pommes apparaissent aléatoirement.
+
+Le serpent grandit en mangeant une pomme.
+
+Après 10 pommes, le joueur gagne.
+
+Trous dans les murs : ils permettent la téléportation vers le bord opposé.
+
+📄 Fichier : version4/snake_v4.c
+📘 Consignes : version4/consignes.pdf
+
+📚 Documentation Doxygen disponible dans le dossier Doxygen/html/index.html.
+
+</details>
+📄 Documentation Doxygen
+La documentation de la version 4 peut être générée avec Doxygen.
+
+✅ Génération
+Depuis la racine du projet :
+
+bash
+Copier
+Modifier
+doxygen Doxyfile
+Le résultat se trouve dans le dossier :
+Doxygen/html/index.html
+
+🧠 Idées futures
+Interface menu
+
+Ajout de scores
+
+Mode 2 joueurs
+
+Amélioration visuelle avec ncurses
+
+👤 Auteur
+Projet pédagogique réalisé pour apprendre la programmation en C via un jeu classique.
+Contributions bienvenues !
+
