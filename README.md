@@ -6,9 +6,8 @@ Il est divisé en **quatre versions**, chacune ajoutant de nouvelles fonctionnal
 La **dernière version** est également accompagnée d'une **documentation générée avec Doxygen**.
 
 ---
-# Détails des Versions
+# **Détails des Versions**
 
----
 ## **Version 1 – Déplacement automatique**
 <details> 
   <summary>Détails</summary>
@@ -37,35 +36,35 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version2)
 
 </details>
-🧱 Version 3 – Bordures et obstacles
-<details> <summary>📋 Détails</summary>
-Apparition de bordures fixes.
 
-Introduction de pavés (obstacles).
+## **Version 3 – Bordures et obstacles**
+<details> 
+  <summary>Détails</summary>
 
-Le serpent meurt en touchant un mur ou un pavé.
+> Apparition de bordures fixes.
+> Introduction de pavés (obstacles).
+> Le serpent meurt en touchant un mur ou un pavé.
 
-📄 Fichier : version3/snake_v3.c
-📘 Consignes : version3/consignes.pdf
-
-</details>
-🍎 Version 4 – Pommes, téléportation, victoire
-<details> <summary>📋 Détails</summary>
-Des pommes apparaissent aléatoirement.
-
-Le serpent grandit en mangeant une pomme.
-
-Après 10 pommes, le joueur gagne.
-
-Trous dans les murs : ils permettent la téléportation vers le bord opposé.
-
-📄 Fichier : version4/snake_v4.c
-📘 Consignes : version4/consignes.pdf
-
-📚 Documentation Doxygen disponible dans le dossier Doxygen/html/index.html.
+🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version3)
 
 </details>
-📄 Documentation Doxygen
+
+## **Version 4 – Pommes, téléportation, victoire**
+<details> 
+  <summary>Détails</summary>
+
+> Des pommes apparaissent aléatoirement.
+> Le serpent grandit en mangeant une pomme.
+> Après 10 pommes, le joueur gagne.
+> Trous dans les murs : ils permettent la téléportation vers le bord opposé.
+
+🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version4)
+
+📚 Documentation Doxygen disponible [ici](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
+
+</details>
+
+## **Documentation Doxygen**
 La documentation de la version 4 peut être générée avec Doxygen.
 
 ✅ Génération
