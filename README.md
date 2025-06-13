@@ -1,4 +1,4 @@
-# 🐍 Jeu du Snake en C (Terminal)
+# **🐍 Jeu du Snake en C (Terminal)**
 
 Ce projet est une implémentation du célèbre jeu **Snake**, jouable dans le **terminal**, et développé en **langage C**.  
 Il est divisé en **quatre versions**, chacune ajoutant de nouvelles fonctionnalités au jeu.
@@ -32,6 +32,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 > - D : Droite
 > 
 > Le serpent continue dans la direction choisie.
+> 
 > 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version2)
 
 </details>
@@ -43,6 +44,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 > - Apparition de bordures fixes.
 > - Introduction de pavés (obstacles).
 > - Le serpent meurt en touchant un mur ou un pavé.
+> 
 > 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version3)
 
 </details>
@@ -55,6 +57,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 > - Le serpent grandit en mangeant une pomme.
 > - Après 10 pommes, le joueur gagne.
 > - Trous dans les murs : ils permettent la téléportation vers le bord opposé.
+> 
 > 🔗 [Dossier Version1](https://github.com/yannislechevere/SAE-1.01/tree/master/Version4)
 
 📚 Documentation Doxygen disponible [ici](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
@@ -66,6 +69,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
   <summary>Détails</summary>
 
 > La documentation de la version 4 peut être générée avec Doxygen.
+>
 > 🔗 [Dossier Doxygen](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
 
 </details>
