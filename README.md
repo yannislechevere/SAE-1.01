@@ -77,7 +77,7 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 
 ---
 
-# ✍️ Auteur
+#  Auteur
 
 LE CHEVERE Yannis
 
