@@ -2,9 +2,9 @@
 
 Ce projet est une implémentation du célèbre jeu **Snake**, jouable dans le **terminal**, et développé en **langage C**.  
 Il est divisé en **quatre versions**, chacune ajoutant de nouvelles fonctionnalités au jeu.
-
 La **dernière version** est également accompagnée d'une **documentation générée avec Doxygen**.
 
+---
   
 # Détails des Versions
 
@@ -74,3 +74,10 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 >> 🔗 [Dossier Doxygen](https://github.com/yannislechevere/SAE-1.01/tree/master/Doxygen)
 >
 > </details>
+
+---
+
+# ✍️ Auteur
+
+LE CHEVERE Yannis
+
