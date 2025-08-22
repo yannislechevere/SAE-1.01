@@ -79,5 +79,6 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 
 #  Auteur
 
-LE CHEVERE Yannis
+Projet réalisé individuellement:
+**LE CHEVERE Yannis**
 
