@@ -79,6 +79,6 @@ La **dernière version** est également accompagnée d'une **documentation gén�
 
 #  Auteur
 
-Projet réalisé individuellement:
+Projet réalisé individuellement:   
 **LE CHEVERE Yannis**
 
